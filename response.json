@@ -4,141 +4,141 @@
             "id": 1,
             "title": "کتاب شماره ۱",
             "description": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است. چاپگرها و متون بلکه روزنامه و مجله در ستون و سطرآنچنان که لازم است و برای شرایط فعلی تکنولوژی مورد نیاز و کاربردهای متنوع با هدف بهبود ابزارهای کاربردی می باشد. کتابهای زیادی در شصت و سه درصد گذشته، حال و آینده شناخت فراوان جامعه و متخصصان را می طلبد تا با نرم افزارها شناخت بیشتری را برای طراحان رایانه ای علی الخصوص طراحان خلاقی و فرهنگ پیشرو در زبان فارسی ایجاد کرد. در این صورت می توان امید داشت که تمام و دشواری موجود در ارائه راهکارها و شرایط سخت تایپ به پایان رسد وزمان مورد نیاز شامل حروفچینی دستاوردهای اصلی و جوابگوی سوالات پیوسته اهل دنیای موجود طراحی اساسا مورد استفاده قرار گیرد.",
-            "poster": "https://raw.githubusercontent.com/leilaahmadian/os_learning_backend/master/books/1/poster.jpg",
-            "file": "https://raw.githubusercontent.com/leilaahmadian/os_learning_backend/master/books/1/file.pdf"
+            "poster": "https://raw.githubusercontent.com/leilaahmadian/os_learning_backend/main/books/1/poster.jpg",
+            "file": "https://raw.githubusercontent.com/leilaahmadian/os_learning_backend/main/books/1/file.pdf"
         },
         {
             "id": 2,
             "title": "کتاب شماره ۲",
             "description": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است. چاپگرها و متون بلکه روزنامه و مجله در ستون و سطرآنچنان که لازم است و برای شرایط فعلی تکنولوژی مورد نیاز و کاربردهای متنوع با هدف بهبود ابزارهای کاربردی می باشد. کتابهای زیادی در شصت و سه درصد گذشته، حال و آینده شناخت فراوان جامعه و متخصصان را می طلبد تا با نرم افزارها شناخت بیشتری را برای طراحان رایانه ای علی الخصوص طراحان خلاقی و فرهنگ پیشرو در زبان فارسی ایجاد کرد. در این صورت می توان امید داشت که تمام و دشواری موجود در ارائه راهکارها و شرایط سخت تایپ به پایان رسد وزمان مورد نیاز شامل حروفچینی دستاوردهای اصلی و جوابگوی سوالات پیوسته اهل دنیای موجود طراحی اساسا مورد استفاده قرار گیرد.",
-            "poster": "https://raw.githubusercontent.com/leilaahmadian/os_learning_backend/master/books/2/poster.jpg",
-            "file": "https://raw.githubusercontent.com/leilaahmadian/os_learning_backend/master/books/2/file.pdf"
+            "poster": "https://raw.githubusercontent.com/leilaahmadian/os_learning_backend/main/books/2/poster.jpg",
+            "file": "https://raw.githubusercontent.com/leilaahmadian/os_learning_backend/main/books/2/file.pdf"
         },
         {
             "id": 3,
             "title": "کتاب شماره ۳",
             "description": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است. چاپگرها و متون بلکه روزنامه و مجله در ستون و سطرآنچنان که لازم است و برای شرایط فعلی تکنولوژی مورد نیاز و کاربردهای متنوع با هدف بهبود ابزارهای کاربردی می باشد. کتابهای زیادی در شصت و سه درصد گذشته، حال و آینده شناخت فراوان جامعه و متخصصان را می طلبد تا با نرم افزارها شناخت بیشتری را برای طراحان رایانه ای علی الخصوص طراحان خلاقی و فرهنگ پیشرو در زبان فارسی ایجاد کرد. در این صورت می توان امید داشت که تمام و دشواری موجود در ارائه راهکارها و شرایط سخت تایپ به پایان رسد وزمان مورد نیاز شامل حروفچینی دستاوردهای اصلی و جوابگوی سوالات پیوسته اهل دنیای موجود طراحی اساسا مورد استفاده قرار گیرد.",
-            "poster": "https://raw.githubusercontent.com/leilaahmadian/os_learning_backend/master/books/3/poster.jpg",
-            "file": "https://raw.githubusercontent.com/leilaahmadian/os_learning_backend/master/books/3/file.pdf"
+            "poster": "https://raw.githubusercontent.com/leilaahmadian/os_learning_backend/main/books/3/poster.jpg",
+            "file": "https://raw.githubusercontent.com/leilaahmadian/os_learning_backend/main/books/3/file.pdf"
         },
         {
             "id": 4,
             "title": "کتاب شماره ۴",
             "description": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است. چاپگرها و متون بلکه روزنامه و مجله در ستون و سطرآنچنان که لازم است و برای شرایط فعلی تکنولوژی مورد نیاز و کاربردهای متنوع با هدف بهبود ابزارهای کاربردی می باشد. کتابهای زیادی در شصت و سه درصد گذشته، حال و آینده شناخت فراوان جامعه و متخصصان را می طلبد تا با نرم افزارها شناخت بیشتری را برای طراحان رایانه ای علی الخصوص طراحان خلاقی و فرهنگ پیشرو در زبان فارسی ایجاد کرد. در این صورت می توان امید داشت که تمام و دشواری موجود در ارائه راهکارها و شرایط سخت تایپ به پایان رسد وزمان مورد نیاز شامل حروفچینی دستاوردهای اصلی و جوابگوی سوالات پیوسته اهل دنیای موجود طراحی اساسا مورد استفاده قرار گیرد.",
-            "poster": "https://raw.githubusercontent.com/leilaahmadian/os_learning_backend/master/books/4/poster.jpg",
-            "file": "https://raw.githubusercontent.com/leilaahmadian/os_learning_backend/master/books/4/file.pdf"
+            "poster": "https://raw.githubusercontent.com/leilaahmadian/os_learning_backend/main/books/4/poster.jpg",
+            "file": "https://raw.githubusercontent.com/leilaahmadian/os_learning_backend/main/books/4/file.pdf"
         },
         {
             "id": 5,
             "title": "کتاب شماره ۵",
             "description": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است. چاپگرها و متون بلکه روزنامه و مجله در ستون و سطرآنچنان که لازم است و برای شرایط فعلی تکنولوژی مورد نیاز و کاربردهای متنوع با هدف بهبود ابزارهای کاربردی می باشد. کتابهای زیادی در شصت و سه درصد گذشته، حال و آینده شناخت فراوان جامعه و متخصصان را می طلبد تا با نرم افزارها شناخت بیشتری را برای طراحان رایانه ای علی الخصوص طراحان خلاقی و فرهنگ پیشرو در زبان فارسی ایجاد کرد. در این صورت می توان امید داشت که تمام و دشواری موجود در ارائه راهکارها و شرایط سخت تایپ به پایان رسد وزمان مورد نیاز شامل حروفچینی دستاوردهای اصلی و جوابگوی سوالات پیوسته اهل دنیای موجود طراحی اساسا مورد استفاده قرار گیرد.",
-            "poster": "https://raw.githubusercontent.com/leilaahmadian/os_learning_backend/master/books/5/poster.jpg",
-            "file": "https://raw.githubusercontent.com/leilaahmadian/os_learning_backend/master/books/5/file.pdf"
+            "poster": "https://raw.githubusercontent.com/leilaahmadian/os_learning_backend/main/books/5/poster.jpg",
+            "file": "https://raw.githubusercontent.com/leilaahmadian/os_learning_backend/main/books/5/file.pdf"
         },
         {
             "id": 6,
             "title": "کتاب شماره ۶",
             "description": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است. چاپگرها و متون بلکه روزنامه و مجله در ستون و سطرآنچنان که لازم است و برای شرایط فعلی تکنولوژی مورد نیاز و کاربردهای متنوع با هدف بهبود ابزارهای کاربردی می باشد. کتابهای زیادی در شصت و سه درصد گذشته، حال و آینده شناخت فراوان جامعه و متخصصان را می طلبد تا با نرم افزارها شناخت بیشتری را برای طراحان رایانه ای علی الخصوص طراحان خلاقی و فرهنگ پیشرو در زبان فارسی ایجاد کرد. در این صورت می توان امید داشت که تمام و دشواری موجود در ارائه راهکارها و شرایط سخت تایپ به پایان رسد وزمان مورد نیاز شامل حروفچینی دستاوردهای اصلی و جوابگوی سوالات پیوسته اهل دنیای موجود طراحی اساسا مورد استفاده قرار گیرد.",
-            "poster": "https://raw.githubusercontent.com/leilaahmadian/os_learning_backend/master/books/6/poster.jpg",
-            "file": "https://raw.githubusercontent.com/leilaahmadian/os_learning_backend/master/books/6/file.pdf"
+            "poster": "https://raw.githubusercontent.com/leilaahmadian/os_learning_backend/main/books/6/poster.jpg",
+            "file": "https://raw.githubusercontent.com/leilaahmadian/os_learning_backend/main/books/6/file.pdf"
         },
         {
             "id": 7,
             "title": "کتاب شماره ۷",
             "description": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است. چاپگرها و متون بلکه روزنامه و مجله در ستون و سطرآنچنان که لازم است و برای شرایط فعلی تکنولوژی مورد نیاز و کاربردهای متنوع با هدف بهبود ابزارهای کاربردی می باشد. کتابهای زیادی در شصت و سه درصد گذشته، حال و آینده شناخت فراوان جامعه و متخصصان را می طلبد تا با نرم افزارها شناخت بیشتری را برای طراحان رایانه ای علی الخصوص طراحان خلاقی و فرهنگ پیشرو در زبان فارسی ایجاد کرد. در این صورت می توان امید داشت که تمام و دشواری موجود در ارائه راهکارها و شرایط سخت تایپ به پایان رسد وزمان مورد نیاز شامل حروفچینی دستاوردهای اصلی و جوابگوی سوالات پیوسته اهل دنیای موجود طراحی اساسا مورد استفاده قرار گیرد.",
-            "poster": "https://raw.githubusercontent.com/leilaahmadian/os_learning_backend/master/books/7/poster.jpg",
-            "file": "https://raw.githubusercontent.com/leilaahmadian/os_learning_backend/master/books/7/file.pdf"
+            "poster": "https://raw.githubusercontent.com/leilaahmadian/os_learning_backend/main/books/7/poster.jpg",
+            "file": "https://raw.githubusercontent.com/leilaahmadian/os_learning_backend/main/books/7/file.pdf"
         },
         {
             "id": 8,
             "title": "کتاب شماره ۸",
             "description": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است. چاپگرها و متون بلکه روزنامه و مجله در ستون و سطرآنچنان که لازم است و برای شرایط فعلی تکنولوژی مورد نیاز و کاربردهای متنوع با هدف بهبود ابزارهای کاربردی می باشد. کتابهای زیادی در شصت و سه درصد گذشته، حال و آینده شناخت فراوان جامعه و متخصصان را می طلبد تا با نرم افزارها شناخت بیشتری را برای طراحان رایانه ای علی الخصوص طراحان خلاقی و فرهنگ پیشرو در زبان فارسی ایجاد کرد. در این صورت می توان امید داشت که تمام و دشواری موجود در ارائه راهکارها و شرایط سخت تایپ به پایان رسد وزمان مورد نیاز شامل حروفچینی دستاوردهای اصلی و جوابگوی سوالات پیوسته اهل دنیای موجود طراحی اساسا مورد استفاده قرار گیرد.",
-            "poster": "https://raw.githubusercontent.com/leilaahmadian/os_learning_backend/master/books/8/poster.jpg",
-            "file": "https://raw.githubusercontent.com/leilaahmadian/os_learning_backend/master/books/8/file.pdf"
+            "poster": "https://raw.githubusercontent.com/leilaahmadian/os_learning_backend/main/books/8/poster.jpg",
+            "file": "https://raw.githubusercontent.com/leilaahmadian/os_learning_backend/main/books/8/file.pdf"
         },
         {
             "id": 9,
             "title": "کتاب شماره ۹",
             "description": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است. چاپگرها و متون بلکه روزنامه و مجله در ستون و سطرآنچنان که لازم است و برای شرایط فعلی تکنولوژی مورد نیاز و کاربردهای متنوع با هدف بهبود ابزارهای کاربردی می باشد. کتابهای زیادی در شصت و سه درصد گذشته، حال و آینده شناخت فراوان جامعه و متخصصان را می طلبد تا با نرم افزارها شناخت بیشتری را برای طراحان رایانه ای علی الخصوص طراحان خلاقی و فرهنگ پیشرو در زبان فارسی ایجاد کرد. در این صورت می توان امید داشت که تمام و دشواری موجود در ارائه راهکارها و شرایط سخت تایپ به پایان رسد وزمان مورد نیاز شامل حروفچینی دستاوردهای اصلی و جوابگوی سوالات پیوسته اهل دنیای موجود طراحی اساسا مورد استفاده قرار گیرد.",
-            "poster": "https://raw.githubusercontent.com/leilaahmadian/os_learning_backend/master/books/9/poster.jpg",
-            "file": "https://raw.githubusercontent.com/leilaahmadian/os_learning_backend/master/books/9/file.pdf"
+            "poster": "https://raw.githubusercontent.com/leilaahmadian/os_learning_backend/main/books/9/poster.jpg",
+            "file": "https://raw.githubusercontent.com/leilaahmadian/os_learning_backend/main/books/9/file.pdf"
         },
         {
             "id": 10,
             "title": "کتاب شماره ۱۰",
             "description": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است. چاپگرها و متون بلکه روزنامه و مجله در ستون و سطرآنچنان که لازم است و برای شرایط فعلی تکنولوژی مورد نیاز و کاربردهای متنوع با هدف بهبود ابزارهای کاربردی می باشد. کتابهای زیادی در شصت و سه درصد گذشته، حال و آینده شناخت فراوان جامعه و متخصصان را می طلبد تا با نرم افزارها شناخت بیشتری را برای طراحان رایانه ای علی الخصوص طراحان خلاقی و فرهنگ پیشرو در زبان فارسی ایجاد کرد. در این صورت می توان امید داشت که تمام و دشواری موجود در ارائه راهکارها و شرایط سخت تایپ به پایان رسد وزمان مورد نیاز شامل حروفچینی دستاوردهای اصلی و جوابگوی سوالات پیوسته اهل دنیای موجود طراحی اساسا مورد استفاده قرار گیرد.",
-            "poster": "https://raw.githubusercontent.com/leilaahmadian/os_learning_backend/master/books/10/poster.jpg",
-            "file": "https://raw.githubusercontent.com/leilaahmadian/os_learning_backend/master/books/10/file.pdf"
+            "poster": "https://raw.githubusercontent.com/leilaahmadian/os_learning_backend/main/books/10/poster.jpg",
+            "file": "https://raw.githubusercontent.com/leilaahmadian/os_learning_backend/main/books/10/file.pdf"
         },
         {
             "id": 11,
             "title": "کتاب شماره ۱۱",
             "description": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است. چاپگرها و متون بلکه روزنامه و مجله در ستون و سطرآنچنان که لازم است و برای شرایط فعلی تکنولوژی مورد نیاز و کاربردهای متنوع با هدف بهبود ابزارهای کاربردی می باشد. کتابهای زیادی در شصت و سه درصد گذشته، حال و آینده شناخت فراوان جامعه و متخصصان را می طلبد تا با نرم افزارها شناخت بیشتری را برای طراحان رایانه ای علی الخصوص طراحان خلاقی و فرهنگ پیشرو در زبان فارسی ایجاد کرد. در این صورت می توان امید داشت که تمام و دشواری موجود در ارائه راهکارها و شرایط سخت تایپ به پایان رسد وزمان مورد نیاز شامل حروفچینی دستاوردهای اصلی و جوابگوی سوالات پیوسته اهل دنیای موجود طراحی اساسا مورد استفاده قرار گیرد.",
-            "poster": "https://raw.githubusercontent.com/leilaahmadian/os_learning_backend/master/books/11/poster.jpg",
-            "file": "https://raw.githubusercontent.com/leilaahmadian/os_learning_backend/master/books/11/file.pdf"
+            "poster": "https://raw.githubusercontent.com/leilaahmadian/os_learning_backend/main/books/11/poster.jpg",
+            "file": "https://raw.githubusercontent.com/leilaahmadian/os_learning_backend/main/books/11/file.pdf"
         },
         {
             "id": 12,
             "title": "کتاب شماره ۱۲",
             "description": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است. چاپگرها و متون بلکه روزنامه و مجله در ستون و سطرآنچنان که لازم است و برای شرایط فعلی تکنولوژی مورد نیاز و کاربردهای متنوع با هدف بهبود ابزارهای کاربردی می باشد. کتابهای زیادی در شصت و سه درصد گذشته، حال و آینده شناخت فراوان جامعه و متخصصان را می طلبد تا با نرم افزارها شناخت بیشتری را برای طراحان رایانه ای علی الخصوص طراحان خلاقی و فرهنگ پیشرو در زبان فارسی ایجاد کرد. در این صورت می توان امید داشت که تمام و دشواری موجود در ارائه راهکارها و شرایط سخت تایپ به پایان رسد وزمان مورد نیاز شامل حروفچینی دستاوردهای اصلی و جوابگوی سوالات پیوسته اهل دنیای موجود طراحی اساسا مورد استفاده قرار گیرد.",
-            "poster": "https://raw.githubusercontent.com/leilaahmadian/os_learning_backend/master/books/12/poster.jpg",
-            "file": "https://raw.githubusercontent.com/leilaahmadian/os_learning_backend/master/books/12/file.pdf"
+            "poster": "https://raw.githubusercontent.com/leilaahmadian/os_learning_backend/main/books/12/poster.jpg",
+            "file": "https://raw.githubusercontent.com/leilaahmadian/os_learning_backend/main/books/12/file.pdf"
         },
         {
             "id": 13,
             "title": "کتاب شماره ۱۳",
             "description": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است. چاپگرها و متون بلکه روزنامه و مجله در ستون و سطرآنچنان که لازم است و برای شرایط فعلی تکنولوژی مورد نیاز و کاربردهای متنوع با هدف بهبود ابزارهای کاربردی می باشد. کتابهای زیادی در شصت و سه درصد گذشته، حال و آینده شناخت فراوان جامعه و متخصصان را می طلبد تا با نرم افزارها شناخت بیشتری را برای طراحان رایانه ای علی الخصوص طراحان خلاقی و فرهنگ پیشرو در زبان فارسی ایجاد کرد. در این صورت می توان امید داشت که تمام و دشواری موجود در ارائه راهکارها و شرایط سخت تایپ به پایان رسد وزمان مورد نیاز شامل حروفچینی دستاوردهای اصلی و جوابگوی سوالات پیوسته اهل دنیای موجود طراحی اساسا مورد استفاده قرار گیرد.",
-            "poster": "https://raw.githubusercontent.com/leilaahmadian/os_learning_backend/master/books/13/poster.jpg",
-            "file": "https://raw.githubusercontent.com/leilaahmadian/os_learning_backend/master/books/13/file.pdf"
+            "poster": "https://raw.githubusercontent.com/leilaahmadian/os_learning_backend/main/books/13/poster.jpg",
+            "file": "https://raw.githubusercontent.com/leilaahmadian/os_learning_backend/main/books/13/file.pdf"
         },
         {
             "id": 14,
             "title": "کتاب شماره ۱۴",
             "description": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است. چاپگرها و متون بلکه روزنامه و مجله در ستون و سطرآنچنان که لازم است و برای شرایط فعلی تکنولوژی مورد نیاز و کاربردهای متنوع با هدف بهبود ابزارهای کاربردی می باشد. کتابهای زیادی در شصت و سه درصد گذشته، حال و آینده شناخت فراوان جامعه و متخصصان را می طلبد تا با نرم افزارها شناخت بیشتری را برای طراحان رایانه ای علی الخصوص طراحان خلاقی و فرهنگ پیشرو در زبان فارسی ایجاد کرد. در این صورت می توان امید داشت که تمام و دشواری موجود در ارائه راهکارها و شرایط سخت تایپ به پایان رسد وزمان مورد نیاز شامل حروفچینی دستاوردهای اصلی و جوابگوی سوالات پیوسته اهل دنیای موجود طراحی اساسا مورد استفاده قرار گیرد.",
-            "poster": "https://raw.githubusercontent.com/leilaahmadian/os_learning_backend/master/books/14/poster.jpg",
-            "file": "https://raw.githubusercontent.com/leilaahmadian/os_learning_backend/master/books/14/file.pdf"
+            "poster": "https://raw.githubusercontent.com/leilaahmadian/os_learning_backend/main/books/14/poster.jpg",
+            "file": "https://raw.githubusercontent.com/leilaahmadian/os_learning_backend/main/books/14/file.pdf"
         },
         {
             "id": 15,
             "title": "کتاب شماره ۱۵",
             "description": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است. چاپگرها و متون بلکه روزنامه و مجله در ستون و سطرآنچنان که لازم است و برای شرایط فعلی تکنولوژی مورد نیاز و کاربردهای متنوع با هدف بهبود ابزارهای کاربردی می باشد. کتابهای زیادی در شصت و سه درصد گذشته، حال و آینده شناخت فراوان جامعه و متخصصان را می طلبد تا با نرم افزارها شناخت بیشتری را برای طراحان رایانه ای علی الخصوص طراحان خلاقی و فرهنگ پیشرو در زبان فارسی ایجاد کرد. در این صورت می توان امید داشت که تمام و دشواری موجود در ارائه راهکارها و شرایط سخت تایپ به پایان رسد وزمان مورد نیاز شامل حروفچینی دستاوردهای اصلی و جوابگوی سوالات پیوسته اهل دنیای موجود طراحی اساسا مورد استفاده قرار گیرد.",
-            "poster": "https://raw.githubusercontent.com/leilaahmadian/os_learning_backend/master/books/15/poster.jpg",
-            "file": "https://raw.githubusercontent.com/leilaahmadian/os_learning_backend/master/books/15/file.pdf"
+            "poster": "https://raw.githubusercontent.com/leilaahmadian/os_learning_backend/main/books/15/poster.jpg",
+            "file": "https://raw.githubusercontent.com/leilaahmadian/os_learning_backend/main/books/15/file.pdf"
         },
         {
             "id": 16,
             "title": "کتاب شماره ۱۶",
             "description": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است. چاپگرها و متون بلکه روزنامه و مجله در ستون و سطرآنچنان که لازم است و برای شرایط فعلی تکنولوژی مورد نیاز و کاربردهای متنوع با هدف بهبود ابزارهای کاربردی می باشد. کتابهای زیادی در شصت و سه درصد گذشته، حال و آینده شناخت فراوان جامعه و متخصصان را می طلبد تا با نرم افزارها شناخت بیشتری را برای طراحان رایانه ای علی الخصوص طراحان خلاقی و فرهنگ پیشرو در زبان فارسی ایجاد کرد. در این صورت می توان امید داشت که تمام و دشواری موجود در ارائه راهکارها و شرایط سخت تایپ به پایان رسد وزمان مورد نیاز شامل حروفچینی دستاوردهای اصلی و جوابگوی سوالات پیوسته اهل دنیای موجود طراحی اساسا مورد استفاده قرار گیرد.",
-            "poster": "https://raw.githubusercontent.com/leilaahmadian/os_learning_backend/master/books/16/poster.jpg",
-            "file": "https://raw.githubusercontent.com/leilaahmadian/os_learning_backend/master/books/16/file.pdf"
+            "poster": "https://raw.githubusercontent.com/leilaahmadian/os_learning_backend/main/books/16/poster.jpg",
+            "file": "https://raw.githubusercontent.com/leilaahmadian/os_learning_backend/main/books/16/file.pdf"
         },
         {
             "id": 17,
             "title": "کتاب شماره ۱۷",
             "description": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است. چاپگرها و متون بلکه روزنامه و مجله در ستون و سطرآنچنان که لازم است و برای شرایط فعلی تکنولوژی مورد نیاز و کاربردهای متنوع با هدف بهبود ابزارهای کاربردی می باشد. کتابهای زیادی در شصت و سه درصد گذشته، حال و آینده شناخت فراوان جامعه و متخصصان را می طلبد تا با نرم افزارها شناخت بیشتری را برای طراحان رایانه ای علی الخصوص طراحان خلاقی و فرهنگ پیشرو در زبان فارسی ایجاد کرد. در این صورت می توان امید داشت که تمام و دشواری موجود در ارائه راهکارها و شرایط سخت تایپ به پایان رسد وزمان مورد نیاز شامل حروفچینی دستاوردهای اصلی و جوابگوی سوالات پیوسته اهل دنیای موجود طراحی اساسا مورد استفاده قرار گیرد.",
-            "poster": "https://raw.githubusercontent.com/leilaahmadian/os_learning_backend/master/books/17/poster.jpg",
-            "file": "https://raw.githubusercontent.com/leilaahmadian/os_learning_backend/master/books/17/file.pdf"
+            "poster": "https://raw.githubusercontent.com/leilaahmadian/os_learning_backend/main/books/17/poster.jpg",
+            "file": "https://raw.githubusercontent.com/leilaahmadian/os_learning_backend/main/books/17/file.pdf"
         },
         {
             "id": 18,
             "title": "کتاب شماره ۱۸",
             "description": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است. چاپگرها و متون بلکه روزنامه و مجله در ستون و سطرآنچنان که لازم است و برای شرایط فعلی تکنولوژی مورد نیاز و کاربردهای متنوع با هدف بهبود ابزارهای کاربردی می باشد. کتابهای زیادی در شصت و سه درصد گذشته، حال و آینده شناخت فراوان جامعه و متخصصان را می طلبد تا با نرم افزارها شناخت بیشتری را برای طراحان رایانه ای علی الخصوص طراحان خلاقی و فرهنگ پیشرو در زبان فارسی ایجاد کرد. در این صورت می توان امید داشت که تمام و دشواری موجود در ارائه راهکارها و شرایط سخت تایپ به پایان رسد وزمان مورد نیاز شامل حروفچینی دستاوردهای اصلی و جوابگوی سوالات پیوسته اهل دنیای موجود طراحی اساسا مورد استفاده قرار گیرد.",
-            "poster": "https://raw.githubusercontent.com/leilaahmadian/os_learning_backend/master/books/18/poster.jpg",
-            "file": "https://raw.githubusercontent.com/leilaahmadian/os_learning_backend/master/books/18/file.pdf"
+            "poster": "https://raw.githubusercontent.com/leilaahmadian/os_learning_backend/main/books/18/poster.jpg",
+            "file": "https://raw.githubusercontent.com/leilaahmadian/os_learning_backend/main/books/18/file.pdf"
         },
         {
             "id": 19,
             "title": "کتاب شماره ۱۹",
             "description": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است. چاپگرها و متون بلکه روزنامه و مجله در ستون و سطرآنچنان که لازم است و برای شرایط فعلی تکنولوژی مورد نیاز و کاربردهای متنوع با هدف بهبود ابزارهای کاربردی می باشد. کتابهای زیادی در شصت و سه درصد گذشته، حال و آینده شناخت فراوان جامعه و متخصصان را می طلبد تا با نرم افزارها شناخت بیشتری را برای طراحان رایانه ای علی الخصوص طراحان خلاقی و فرهنگ پیشرو در زبان فارسی ایجاد کرد. در این صورت می توان امید داشت که تمام و دشواری موجود در ارائه راهکارها و شرایط سخت تایپ به پایان رسد وزمان مورد نیاز شامل حروفچینی دستاوردهای اصلی و جوابگوی سوالات پیوسته اهل دنیای موجود طراحی اساسا مورد استفاده قرار گیرد.",
-            "poster": "https://raw.githubusercontent.com/leilaahmadian/os_learning_backend/master/books/19/poster.jpg",
-            "file": "https://raw.githubusercontent.com/leilaahmadian/os_learning_backend/master/books/19/file.pdf"
+            "poster": "https://raw.githubusercontent.com/leilaahmadian/os_learning_backend/main/books/19/poster.jpg",
+            "file": "https://raw.githubusercontent.com/leilaahmadian/os_learning_backend/main/books/19/file.pdf"
         },
         {
             "id": 20,
             "title": "کتاب شماره ۲۰",
             "description": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است. چاپگرها و متون بلکه روزنامه و مجله در ستون و سطرآنچنان که لازم است و برای شرایط فعلی تکنولوژی مورد نیاز و کاربردهای متنوع با هدف بهبود ابزارهای کاربردی می باشد. کتابهای زیادی در شصت و سه درصد گذشته، حال و آینده شناخت فراوان جامعه و متخصصان را می طلبد تا با نرم افزارها شناخت بیشتری را برای طراحان رایانه ای علی الخصوص طراحان خلاقی و فرهنگ پیشرو در زبان فارسی ایجاد کرد. در این صورت می توان امید داشت که تمام و دشواری موجود در ارائه راهکارها و شرایط سخت تایپ به پایان رسد وزمان مورد نیاز شامل حروفچینی دستاوردهای اصلی و جوابگوی سوالات پیوسته اهل دنیای موجود طراحی اساسا مورد استفاده قرار گیرد.",
-            "poster": "https://raw.githubusercontent.com/leilaahmadian/os_learning_backend/master/books/20/poster.jpg",
-            "file": "https://raw.githubusercontent.com/leilaahmadian/os_learning_backend/master/books/20/file.pdf"
+            "poster": "https://raw.githubusercontent.com/leilaahmadian/os_learning_backend/main/books/20/poster.jpg",
+            "file": "https://raw.githubusercontent.com/leilaahmadian/os_learning_backend/main/books/20/file.pdf"
         }
     ],
 
@@ -147,36 +147,36 @@
             "id": 1,
             "title": "ویدو شماره ۱",
             "description": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است. چاپگرها و متون بلکه روزنامه و مجله در ستون و سطرآنچنان که لازم است و برای شرایط فعلی تکنولوژی مورد نیاز و کاربردهای متنوع با هدف بهبود ابزارهای کاربردی می باشد. کتابهای زیادی در شصت و سه درصد گذشته، حال و آینده شناخت فراوان جامعه و متخصصان را می طلبد تا با نرم افزارها شناخت بیشتری را برای طراحان رایانه ای علی الخصوص طراحان خلاقی و فرهنگ پیشرو در زبان فارسی ایجاد کرد. در این صورت می توان امید داشت که تمام و دشواری موجود در ارائه راهکارها و شرایط سخت تایپ به پایان رسد وزمان مورد نیاز شامل حروفچینی دستاوردهای اصلی و جوابگوی سوالات پیوسته اهل دنیای موجود طراحی اساسا مورد استفاده قرار گیرد.",
-            "poster": "https://raw.githubusercontent.com/leilaahmadian/os_learning_backend/master/videos/1/poster.jpg",
-            "file": "https://raw.githubusercontent.com/leilaahmadian/os_learning_backend/master/videos/1/file.mp4"
+            "poster": "https://raw.githubusercontent.com/leilaahmadian/os_learning_backend/main/videos/1/poster.jpg",
+            "file": "https://raw.githubusercontent.com/leilaahmadian/os_learning_backend/main/videos/1/file.mp4"
         },
         {
             "id": 2,
             "title": "ویدو شماره ۲",
             "description": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است. چاپگرها و متون بلکه روزنامه و مجله در ستون و سطرآنچنان که لازم است و برای شرایط فعلی تکنولوژی مورد نیاز و کاربردهای متنوع با هدف بهبود ابزارهای کاربردی می باشد. کتابهای زیادی در شصت و سه درصد گذشته، حال و آینده شناخت فراوان جامعه و متخصصان را می طلبد تا با نرم افزارها شناخت بیشتری را برای طراحان رایانه ای علی الخصوص طراحان خلاقی و فرهنگ پیشرو در زبان فارسی ایجاد کرد. در این صورت می توان امید داشت که تمام و دشواری موجود در ارائه راهکارها و شرایط سخت تایپ به پایان رسد وزمان مورد نیاز شامل حروفچینی دستاوردهای اصلی و جوابگوی سوالات پیوسته اهل دنیای موجود طراحی اساسا مورد استفاده قرار گیرد.",
-            "poster": "https://raw.githubusercontent.com/leilaahmadian/os_learning_backend/master/videos/2/poster.jpg",
-            "file": "https://raw.githubusercontent.com/leilaahmadian/os_learning_backend/master/videos/2/file.mp4"
+            "poster": "https://raw.githubusercontent.com/leilaahmadian/os_learning_backend/main/videos/2/poster.jpg",
+            "file": "https://raw.githubusercontent.com/leilaahmadian/os_learning_backend/main/videos/2/file.mp4"
         },
         {
             "id": 3,
             "title": "ویدو شماره ۳",
             "description": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است. چاپگرها و متون بلکه روزنامه و مجله در ستون و سطرآنچنان که لازم است و برای شرایط فعلی تکنولوژی مورد نیاز و کاربردهای متنوع با هدف بهبود ابزارهای کاربردی می باشد. کتابهای زیادی در شصت و سه درصد گذشته، حال و آینده شناخت فراوان جامعه و متخصصان را می طلبد تا با نرم افزارها شناخت بیشتری را برای طراحان رایانه ای علی الخصوص طراحان خلاقی و فرهنگ پیشرو در زبان فارسی ایجاد کرد. در این صورت می توان امید داشت که تمام و دشواری موجود در ارائه راهکارها و شرایط سخت تایپ به پایان رسد وزمان مورد نیاز شامل حروفچینی دستاوردهای اصلی و جوابگوی سوالات پیوسته اهل دنیای موجود طراحی اساسا مورد استفاده قرار گیرد.",
-            "poster": "https://raw.githubusercontent.com/leilaahmadian/os_learning_backend/master/videos/3/poster.jpg",
-            "file": "https://raw.githubusercontent.com/leilaahmadian/os_learning_backend/master/videos/3/file.mp4"
+            "poster": "https://raw.githubusercontent.com/leilaahmadian/os_learning_backend/main/videos/3/poster.jpg",
+            "file": "https://raw.githubusercontent.com/leilaahmadian/os_learning_backend/main/videos/3/file.mp4"
         },
         {
             "id": 4,
             "title": "Avril Lavigne  Head Above Water",
             "description": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است. چاپگرها و متون بلکه روزنامه و مجله در ستون و سطرآنچنان که لازم است و برای شرایط فعلی تکنولوژی مورد نیاز و کاربردهای متنوع با هدف بهبود ابزارهای کاربردی می باشد. کتابهای زیادی در شصت و سه درصد گذشته، حال و آینده شناخت فراوان جامعه و متخصصان را می طلبد تا با نرم افزارها شناخت بیشتری را برای طراحان رایانه ای علی الخصوص طراحان خلاقی و فرهنگ پیشرو در زبان فارسی ایجاد کرد. در این صورت می توان امید داشت که تمام و دشواری موجود در ارائه راهکارها و شرایط سخت تایپ به پایان رسد وزمان مورد نیاز شامل حروفچینی دستاوردهای اصلی و جوابگوی سوالات پیوسته اهل دنیای موجود طراحی اساسا مورد استفاده قرار گیرد.",
-            "poster": "https://raw.githubusercontent.com/leilaahmadian/os_learning_backend/master/videos/4/poster.jpg",
-            "file": "https://raw.githubusercontent.com/leilaahmadian/os_learning_backend/master/videos/4/file.mp4"
+            "poster": "https://raw.githubusercontent.com/leilaahmadian/os_learning_backend/main/videos/4/poster.jpg",
+            "file": "https://raw.githubusercontent.com/leilaahmadian/os_learning_backend/main/videos/4/file.mp4"
         },
         {
             "id": 5,
             "title": "Avril Lavigne  We Are Warriors",
             "description": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است. چاپگرها و متون بلکه روزنامه و مجله در ستون و سطرآنچنان که لازم است و برای شرایط فعلی تکنولوژی مورد نیاز و کاربردهای متنوع با هدف بهبود ابزارهای کاربردی می باشد. کتابهای زیادی در شصت و سه درصد گذشته، حال و آینده شناخت فراوان جامعه و متخصصان را می طلبد تا با نرم افزارها شناخت بیشتری را برای طراحان رایانه ای علی الخصوص طراحان خلاقی و فرهنگ پیشرو در زبان فارسی ایجاد کرد. در این صورت می توان امید داشت که تمام و دشواری موجود در ارائه راهکارها و شرایط سخت تایپ به پایان رسد وزمان مورد نیاز شامل حروفچینی دستاوردهای اصلی و جوابگوی سوالات پیوسته اهل دنیای موجود طراحی اساسا مورد استفاده قرار گیرد.",
-            "poster": "https://raw.githubusercontent.com/leilaahmadian/os_learning_backend/master/videos/5/poster.jpg",
-            "file": "https://raw.githubusercontent.com/leilaahmadian/os_learning_backend/master/videos/5/file.mp4"
+            "poster": "https://raw.githubusercontent.com/leilaahmadian/os_learning_backend/main/videos/5/poster.jpg",
+            "file": "https://raw.githubusercontent.com/leilaahmadian/os_learning_backend/main/videos/5/file.mp4"
         }
     ],
 
@@ -185,36 +185,36 @@
             "id": 1,
             "title": "اسلاید شماره ۱",
             "description": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است. چاپگرها و متون بلکه روزنامه و مجله در ستون و سطرآنچنان که لازم است و برای شرایط فعلی تکنولوژی مورد نیاز و کاربردهای متنوع با هدف بهبود ابزارهای کاربردی می باشد. کتابهای زیادی در شصت و سه درصد گذشته، حال و آینده شناخت فراوان جامعه و متخصصان را می طلبد تا با نرم افزارها شناخت بیشتری را برای طراحان رایانه ای علی الخصوص طراحان خلاقی و فرهنگ پیشرو در زبان فارسی ایجاد کرد. در این صورت می توان امید داشت که تمام و دشواری موجود در ارائه راهکارها و شرایط سخت تایپ به پایان رسد وزمان مورد نیاز شامل حروفچینی دستاوردهای اصلی و جوابگوی سوالات پیوسته اهل دنیای موجود طراحی اساسا مورد استفاده قرار گیرد.",
-            "poster": "https://raw.githubusercontent.com/leilaahmadian/os_learning_backend/master/slides/1/poster.jpg",
-            "file": "https://raw.githubusercontent.com/leilaahmadian/os_learning_backend/master/slides/1/file.pptx"
+            "poster": "https://raw.githubusercontent.com/leilaahmadian/os_learning_backend/main/slides/1/poster.jpg",
+            "file": "https://raw.githubusercontent.com/leilaahmadian/os_learning_backend/main/slides/1/file.pptx"
         },
         {
             "id": 2,
             "title": "اسلاید شماره ۲",
             "description": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است. چاپگرها و متون بلکه روزنامه و مجله در ستون و سطرآنچنان که لازم است و برای شرایط فعلی تکنولوژی مورد نیاز و کاربردهای متنوع با هدف بهبود ابزارهای کاربردی می باشد. کتابهای زیادی در شصت و سه درصد گذشته، حال و آینده شناخت فراوان جامعه و متخصصان را می طلبد تا با نرم افزارها شناخت بیشتری را برای طراحان رایانه ای علی الخصوص طراحان خلاقی و فرهنگ پیشرو در زبان فارسی ایجاد کرد. در این صورت می توان امید داشت که تمام و دشواری موجود در ارائه راهکارها و شرایط سخت تایپ به پایان رسد وزمان مورد نیاز شامل حروفچینی دستاوردهای اصلی و جوابگوی سوالات پیوسته اهل دنیای موجود طراحی اساسا مورد استفاده قرار گیرد.",
-            "poster": "https://raw.githubusercontent.com/leilaahmadian/os_learning_backend/master/slides/2/poster.jpg",
-            "file": "https://raw.githubusercontent.com/leilaahmadian/os_learning_backend/master/slides/2/file.pptx"
+            "poster": "https://raw.githubusercontent.com/leilaahmadian/os_learning_backend/main/slides/2/poster.jpg",
+            "file": "https://raw.githubusercontent.com/leilaahmadian/os_learning_backend/main/slides/2/file.pptx"
         },
         {
             "id": 3,
             "title": "اسلاید شماره ۳",
             "description": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است. چاپگرها و متون بلکه روزنامه و مجله در ستون و سطرآنچنان که لازم است و برای شرایط فعلی تکنولوژی مورد نیاز و کاربردهای متنوع با هدف بهبود ابزارهای کاربردی می باشد. کتابهای زیادی در شصت و سه درصد گذشته، حال و آینده شناخت فراوان جامعه و متخصصان را می طلبد تا با نرم افزارها شناخت بیشتری را برای طراحان رایانه ای علی الخصوص طراحان خلاقی و فرهنگ پیشرو در زبان فارسی ایجاد کرد. در این صورت می توان امید داشت که تمام و دشواری موجود در ارائه راهکارها و شرایط سخت تایپ به پایان رسد وزمان مورد نیاز شامل حروفچینی دستاوردهای اصلی و جوابگوی سوالات پیوسته اهل دنیای موجود طراحی اساسا مورد استفاده قرار گیرد.",
-            "poster": "https://raw.githubusercontent.com/leilaahmadian/os_learning_backend/master/slides/3/poster.jpg",
-            "file": "https://raw.githubusercontent.com/leilaahmadian/os_learning_backend/master/slides/3/file.pptx"
+            "poster": "https://raw.githubusercontent.com/leilaahmadian/os_learning_backend/main/slides/3/poster.jpg",
+            "file": "https://raw.githubusercontent.com/leilaahmadian/os_learning_backend/main/slides/3/file.pptx"
         },
         {
             "id": 4,
             "title": "اسلاید شماره ۴",
             "description": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است. چاپگرها و متون بلکه روزنامه و مجله در ستون و سطرآنچنان که لازم است و برای شرایط فعلی تکنولوژی مورد نیاز و کاربردهای متنوع با هدف بهبود ابزارهای کاربردی می باشد. کتابهای زیادی در شصت و سه درصد گذشته، حال و آینده شناخت فراوان جامعه و متخصصان را می طلبد تا با نرم افزارها شناخت بیشتری را برای طراحان رایانه ای علی الخصوص طراحان خلاقی و فرهنگ پیشرو در زبان فارسی ایجاد کرد. در این صورت می توان امید داشت که تمام و دشواری موجود در ارائه راهکارها و شرایط سخت تایپ به پایان رسد وزمان مورد نیاز شامل حروفچینی دستاوردهای اصلی و جوابگوی سوالات پیوسته اهل دنیای موجود طراحی اساسا مورد استفاده قرار گیرد.",
-            "poster": "https://raw.githubusercontent.com/leilaahmadian/os_learning_backend/master/slides/4/poster.jpg",
-            "file": "https://raw.githubusercontent.com/leilaahmadian/os_learning_backend/master/slides/4/file.pptx"
+            "poster": "https://raw.githubusercontent.com/leilaahmadian/os_learning_backend/main/slides/4/poster.jpg",
+            "file": "https://raw.githubusercontent.com/leilaahmadian/os_learning_backend/main/slides/4/file.pptx"
         },
         {
             "id": 5,
             "title": "اسلاید شماره ۵",
             "description": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است. چاپگرها و متون بلکه روزنامه و مجله در ستون و سطرآنچنان که لازم است و برای شرایط فعلی تکنولوژی مورد نیاز و کاربردهای متنوع با هدف بهبود ابزارهای کاربردی می باشد. کتابهای زیادی در شصت و سه درصد گذشته، حال و آینده شناخت فراوان جامعه و متخصصان را می طلبد تا با نرم افزارها شناخت بیشتری را برای طراحان رایانه ای علی الخصوص طراحان خلاقی و فرهنگ پیشرو در زبان فارسی ایجاد کرد. در این صورت می توان امید داشت که تمام و دشواری موجود در ارائه راهکارها و شرایط سخت تایپ به پایان رسد وزمان مورد نیاز شامل حروفچینی دستاوردهای اصلی و جوابگوی سوالات پیوسته اهل دنیای موجود طراحی اساسا مورد استفاده قرار گیرد.",
-            "poster": "https://raw.githubusercontent.com/leilaahmadian/os_learning_backend/master/slides/5/poster.jpg",
-            "file": "https://raw.githubusercontent.com/leilaahmadian/os_learning_backend/master/slides/5/file.pptx"
+            "poster": "https://raw.githubusercontent.com/leilaahmadian/os_learning_backend/main/slides/5/poster.jpg",
+            "file": "https://raw.githubusercontent.com/leilaahmadian/os_learning_backend/main/slides/5/file.pptx"
         }
     ],
 
@@ -223,39 +223,39 @@
             "id": 1,
             "title": "امتحان شماره ۱",
             "description": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است. چاپگرها و متون بلکه روزنامه و مجله در ستون و سطرآنچنان که لازم است و برای شرایط فعلی تکنولوژی مورد نیاز و کاربردهای متنوع با هدف بهبود ابزارهای کاربردی می باشد. کتابهای زیادی در شصت و سه درصد گذشته، حال و آینده شناخت فراوان جامعه و متخصصان را می طلبد تا با نرم افزارها شناخت بیشتری را برای طراحان رایانه ای علی الخصوص طراحان خلاقی و فرهنگ پیشرو در زبان فارسی ایجاد کرد. در این صورت می توان امید داشت که تمام و دشواری موجود در ارائه راهکارها و شرایط سخت تایپ به پایان رسد وزمان مورد نیاز شامل حروفچینی دستاوردهای اصلی و جوابگوی سوالات پیوسته اهل دنیای موجود طراحی اساسا مورد استفاده قرار گیرد.",
-            "poster": "https://raw.githubusercontent.com/leilaahmadian/os_learning_backend/master/exams/1/poster.jpg",
+            "poster": "https://raw.githubusercontent.com/leilaahmadian/os_learning_backend/main/exams/1/poster.jpg",
             "questions": [
                 {
                     "id": 1,
                     "number": 1,
                     "question": "اهل دنیای موجود طراحی اساسا مورد استفاده قرار گیرد؟",
-                    "data": "https://raw.githubusercontent.com/leilaahmadian/os_learning_backend/master/exams/1/1/question.jpg",
+                    "data": "https://raw.githubusercontent.com/leilaahmadian/os_learning_backend/main/exams/1/1/question.jpg",
                     "choices": [
                         {
                             "id": 1,
                             "text": "گزینه یک",
-                            "data": "https://raw.githubusercontent.com/leilaahmadian/os_learning_backend/master/exams/1/1/choice_1.jpg"
+                            "data": "https://raw.githubusercontent.com/leilaahmadian/os_learning_backend/main/exams/1/1/choice_1.jpg"
                         },
                         {
                             "id": 2,
                             "text": "گزینه دو",
-                            "data": "https://raw.githubusercontent.com/leilaahmadian/os_learning_backend/master/exams/1/1/choice_2.jpg"
+                            "data": "https://raw.githubusercontent.com/leilaahmadian/os_learning_backend/main/exams/1/1/choice_2.jpg"
                         },
                         {
                             "id": 3,
                             "text": "گزینه دو",
-                            "data": "https://raw.githubusercontent.com/leilaahmadian/os_learning_backend/master/exams/1/1/choice_3.jpg"
+                            "data": "https://raw.githubusercontent.com/leilaahmadian/os_learning_backend/main/exams/1/1/choice_3.jpg"
                         },
                         {
                             "id": 4,
                             "text": "گزینه دو",
-                            "data": "https://raw.githubusercontent.com/leilaahmadian/os_learning_backend/master/exams/1/1/choice_4.jpg"
+                            "data": "https://raw.githubusercontent.com/leilaahmadian/os_learning_backend/main/exams/1/1/choice_4.jpg"
                         }
                     ],
                     "solution": {
                         "id": 1,
                         "text": "توضیحات و یا راه حل",
-                        "data": "https://raw.githubusercontent.com/leilaahmadian/os_learning_backend/master/exams/1/1/solution.jpg"
+                        "data": "https://raw.githubusercontent.com/leilaahmadian/os_learning_backend/main/exams/1/1/solution.jpg"
                     },
                     "correct_answer": 2
                 },
@@ -263,33 +263,33 @@
                     "id": 2,
                     "number": 2,
                     "question": "اهل دنیای موجود طراحی اساسا مورد استفاده قرار گیرد؟",
-                    "data": "https://raw.githubusercontent.com/leilaahmadian/os_learning_backend/master/exams/1/2/question.jpg",
+                    "data": "https://raw.githubusercontent.com/leilaahmadian/os_learning_backend/main/exams/1/2/question.jpg",
                     "choices": [
                         {
                             "id": 5,
                             "text": "گزینه یک",
-                            "data": "https://raw.githubusercontent.com/leilaahmadian/os_learning_backend/master/exams/1/2/choice_1.jpg"
+                            "data": "https://raw.githubusercontent.com/leilaahmadian/os_learning_backend/main/exams/1/2/choice_1.jpg"
                         },
                         {
                             "id": 6,
                             "text": "گزینه دو",
-                            "data": "https://raw.githubusercontent.com/leilaahmadian/os_learning_backend/master/exams/1/2/choice_2.jpg"
+                            "data": "https://raw.githubusercontent.com/leilaahmadian/os_learning_backend/main/exams/1/2/choice_2.jpg"
                         },
                         {
                             "id": 7,
                             "text": "گزینه سه",
-                            "data": "https://raw.githubusercontent.com/leilaahmadian/os_learning_backend/master/exams/1/2/choice_3.jpg"
+                            "data": "https://raw.githubusercontent.com/leilaahmadian/os_learning_backend/main/exams/1/2/choice_3.jpg"
                         },
                         {
                             "id": 8,
                             "text": "گزینه چهار",
-                            "data": "https://raw.githubusercontent.com/leilaahmadian/os_learning_backend/master/exams/1/2/choice_4.jpg"
+                            "data": "https://raw.githubusercontent.com/leilaahmadian/os_learning_backend/main/exams/1/2/choice_4.jpg"
                         }
                     ],
                     "solution": {
                         "id": 2,
                         "text": "توضیحات و یا راه حل",
-                        "data": "https://raw.githubusercontent.com/leilaahmadian/os_learning_backend/master/exams/1/2/solution.jpg"
+                        "data": "https://raw.githubusercontent.com/leilaahmadian/os_learning_backend/main/exams/1/2/solution.jpg"
                     },
                     "correct_answer": 7
                 },
@@ -297,33 +297,33 @@
                     "id": 3,
                     "number": 3,
                     "question": "اهل دنیای موجود طراحی اساسا مورد استفاده قرار گیرد؟",
-                    "data": "https://raw.githubusercontent.com/leilaahmadian/os_learning_backend/master/exams/1/3/question.jpg",
+                    "data": "https://raw.githubusercontent.com/leilaahmadian/os_learning_backend/main/exams/1/3/question.jpg",
                     "choices": [
                         {
                             "id": 9,
                             "text": "گزینه یک",
-                            "data": "https://raw.githubusercontent.com/leilaahmadian/os_learning_backend/master/exams/1/3/choice_1.jpg"
+                            "data": "https://raw.githubusercontent.com/leilaahmadian/os_learning_backend/main/exams/1/3/choice_1.jpg"
                         },
                         {
                             "id": 10,
                             "text": "گزینه دو",
-                            "data": "https://raw.githubusercontent.com/leilaahmadian/os_learning_backend/master/exams/1/3/choice_2.jpg"
+                            "data": "https://raw.githubusercontent.com/leilaahmadian/os_learning_backend/main/exams/1/3/choice_2.jpg"
                         },
                         {
                             "id": 11,
                             "text": "گزینه سه",
-                            "data": "https://raw.githubusercontent.com/leilaahmadian/os_learning_backend/master/exams/1/3/choice_3.jpg"
+                            "data": "https://raw.githubusercontent.com/leilaahmadian/os_learning_backend/main/exams/1/3/choice_3.jpg"
                         },
                         {
                             "id": 12,
                             "text": "گزینه چهار",
-                            "data": "https://raw.githubusercontent.com/leilaahmadian/os_learning_backend/master/exams/1/3/choice_4.jpg"
+                            "data": "https://raw.githubusercontent.com/leilaahmadian/os_learning_backend/main/exams/1/3/choice_4.jpg"
                         }
                     ],
                     "solution": {
                         "id": 3,
                         "text": "توضیحات و یا راه حل",
-                        "data": "https://raw.githubusercontent.com/leilaahmadian/os_learning_backend/master/exams/1/3/solution.jpg"
+                        "data": "https://raw.githubusercontent.com/leilaahmadian/os_learning_backend/main/exams/1/3/solution.jpg"
                     },
                     "correct_answer": 9
                 },
@@ -331,33 +331,33 @@
                     "id": 4,
                     "number": 4,
                     "question": "اهل دنیای موجود طراحی اساسا مورد استفاده قرار گیرد؟",
-                    "data": "https://raw.githubusercontent.com/leilaahmadian/os_learning_backend/master/exams/1/4/question.jpg",
+                    "data": "https://raw.githubusercontent.com/leilaahmadian/os_learning_backend/main/exams/1/4/question.jpg",
                     "choices": [
                         {
                             "id": 13,
                             "text": "گزینه یک",
-                            "data": "https://raw.githubusercontent.com/leilaahmadian/os_learning_backend/master/exams/1/4/choice_1.jpg"
+                            "data": "https://raw.githubusercontent.com/leilaahmadian/os_learning_backend/main/exams/1/4/choice_1.jpg"
                         },
                         {
                             "id": 14,
                             "text": "گزینه دو",
-                            "data": "https://raw.githubusercontent.com/leilaahmadian/os_learning_backend/master/exams/1/4/choice_2.jpg"
+                            "data": "https://raw.githubusercontent.com/leilaahmadian/os_learning_backend/main/exams/1/4/choice_2.jpg"
                         },
                         {
                             "id": 15,
                             "text": "گزینه سه",
-                            "data": "https://raw.githubusercontent.com/leilaahmadian/os_learning_backend/master/exams/1/4/choice_3.jpg"
+                            "data": "https://raw.githubusercontent.com/leilaahmadian/os_learning_backend/main/exams/1/4/choice_3.jpg"
                         },
                         {
                             "id": 16,
                             "text": "گزینه چهار",
-                            "data": "https://raw.githubusercontent.com/leilaahmadian/os_learning_backend/master/exams/1/4/choice_4.jpg"
+                            "data": "https://raw.githubusercontent.com/leilaahmadian/os_learning_backend/main/exams/1/4/choice_4.jpg"
                         }
                     ],
                     "solution": {
                         "id": 4,
                         "text": "توضیحات و یا راه حل",
-                        "data": "https://raw.githubusercontent.com/leilaahmadian/os_learning_backend/master/exams/1/4/solution.jpg"
+                        "data": "https://raw.githubusercontent.com/leilaahmadian/os_learning_backend/main/exams/1/4/solution.jpg"
                     },
                     "correct_answer": 16
                 },
