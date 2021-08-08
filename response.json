@@ -2,22 +2,22 @@
     "books": [
         {
             "id": 1,
-            "title": "کتاب شماره ۱",
-            "description": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است. چاپگرها و متون بلکه روزنامه و مجله در ستون و سطرآنچنان که لازم است و برای شرایط فعلی تکنولوژی مورد نیاز و کاربردهای متنوع با هدف بهبود ابزارهای کاربردی می باشد. کتابهای زیادی در شصت و سه درصد گذشته، حال و آینده شناخت فراوان جامعه و متخصصان را می طلبد تا با نرم افزارها شناخت بیشتری را برای طراحان رایانه ای علی الخصوص طراحان خلاقی و فرهنگ پیشرو در زبان فارسی ایجاد کرد. در این صورت می توان امید داشت که تمام و دشواری موجود در ارائه راهکارها و شرایط سخت تایپ به پایان رسد وزمان مورد نیاز شامل حروفچینی دستاوردهای اصلی و جوابگوی سوالات پیوسته اهل دنیای موجود طراحی اساسا مورد استفاده قرار گیرد.",
+            "title": "Operating System Concepts",
+            "description": "Writers : ABRAHAM SILBERSCHATZ,PETER BAER GALVIN,GERG GAGNE. Edition :10. Language : English.",
             "poster": "https://raw.githubusercontent.com/leilaahmadian/os_learning_backend/main/books/1/poster.jpg",
             "file": "https://raw.githubusercontent.com/leilaahmadian/os_learning_backend/main/books/1/file.pdf"
         },
         {
             "id": 2,
-            "title": "کتاب شماره ۲",
-            "description": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است. چاپگرها و متون بلکه روزنامه و مجله در ستون و سطرآنچنان که لازم است و برای شرایط فعلی تکنولوژی مورد نیاز و کاربردهای متنوع با هدف بهبود ابزارهای کاربردی می باشد. کتابهای زیادی در شصت و سه درصد گذشته، حال و آینده شناخت فراوان جامعه و متخصصان را می طلبد تا با نرم افزارها شناخت بیشتری را برای طراحان رایانه ای علی الخصوص طراحان خلاقی و فرهنگ پیشرو در زبان فارسی ایجاد کرد. در این صورت می توان امید داشت که تمام و دشواری موجود در ارائه راهکارها و شرایط سخت تایپ به پایان رسد وزمان مورد نیاز شامل حروفچینی دستاوردهای اصلی و جوابگوی سوالات پیوسته اهل دنیای موجود طراحی اساسا مورد استفاده قرار گیرد.",
+            "title": "Operating Systems Internals and Design Principles",
+            "description": "Writers : William Stalling. Edition : 9. Language : English.",
             "poster": "https://raw.githubusercontent.com/leilaahmadian/os_learning_backend/main/books/2/poster.jpg",
             "file": "https://raw.githubusercontent.com/leilaahmadian/os_learning_backend/main/books/2/file.pdf"
         },
         {
             "id": 3,
-            "title": "کتاب شماره ۳",
-            "description": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است. چاپگرها و متون بلکه روزنامه و مجله در ستون و سطرآنچنان که لازم است و برای شرایط فعلی تکنولوژی مورد نیاز و کاربردهای متنوع با هدف بهبود ابزارهای کاربردی می باشد. کتابهای زیادی در شصت و سه درصد گذشته، حال و آینده شناخت فراوان جامعه و متخصصان را می طلبد تا با نرم افزارها شناخت بیشتری را برای طراحان رایانه ای علی الخصوص طراحان خلاقی و فرهنگ پیشرو در زبان فارسی ایجاد کرد. در این صورت می توان امید داشت که تمام و دشواری موجود در ارائه راهکارها و شرایط سخت تایپ به پایان رسد وزمان مورد نیاز شامل حروفچینی دستاوردهای اصلی و جوابگوی سوالات پیوسته اهل دنیای موجود طراحی اساسا مورد استفاده قرار گیرد.",
+            "title": "MODERN OPERATING SYSTEMS",
+            "description": "Writers : ANDREW S.TANENBAUM, HERBERT BOS. Edition : 4. Language : English",
             "poster": "https://raw.githubusercontent.com/leilaahmadian/os_learning_backend/main/books/3/poster.jpg",
             "file": "https://raw.githubusercontent.com/leilaahmadian/os_learning_backend/main/books/3/file.pdf"
         },
